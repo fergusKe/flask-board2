@@ -1,0 +1,12 @@
+.navbar {
+  background-color: #006aa6;
+}
+
+.card-columns a {
+  color: #000;
+}
+.card-columns a:hover {
+  color: #026de0;
+  text-decoration: none;
+  transition: .5s;
+}
